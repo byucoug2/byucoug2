@@ -1,4 +1,11 @@
-### Hi there 👋
+
+# Hi, I'm Liz! 👋
+
+## 🚀 About Me
+I'm a software engineer.
+
+## 🛠 Skills
+Python, Perl, HTML, CSS
 
 <!--
 **byucoug2/byucoug2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
