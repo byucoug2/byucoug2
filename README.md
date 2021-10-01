@@ -14,15 +14,14 @@ Python, Perl, HTML, CSS
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=byucoug2&theme=material-palenight" />
 </a><br>
 
-<!--
-<a href="https://github.com/roxiomontes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roxiomontes&show_icons=true&theme=material-palenight" />
-</a><br>
-<a href="https://github.com/roxiomontes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxiomontes&layout=compact&theme=material-palenight" />
+<a href="https://github.com/byucoug2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=byucoug2&show_icons=true&theme=material-palenight" />
 </a><br>
 
--->
+<a href="https://github.com/byucoug2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byucoug2&layout=compact&theme=material-palenight" />
+</a><br>
+
 
   
 <!--
